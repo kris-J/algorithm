@@ -1,4 +1,4 @@
-package main.java.clone;
+package clone;
 
 /**
  * @author fangjie

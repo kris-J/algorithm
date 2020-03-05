@@ -1,4 +1,4 @@
-package main.java;
+package sort;
 
 import java.math.BigDecimal;
 import java.util.*;

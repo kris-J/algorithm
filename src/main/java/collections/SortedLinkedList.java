@@ -1,4 +1,4 @@
-package main.java.collections;
+package collections;
 
 /**
  * @author fangjie
